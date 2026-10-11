@@ -1,0 +1,488 @@
+c[36m====================================================[0m
+[36m   ___  ____  _   _ ___   _        _    ____  ____   [0m
+[36m  / _ \/ ___|| | | |_ _| | |      / \  | __ )| ___|  [0m
+[36m | | | \___ \| |_| || |  | |     / _ \ |  _ \|___ \  [0m
+[36m | |_| |___) |  _  || |  | |___ / ___ \| |_) |___) | [0m
+[36m  \___/|____/|_| |_|___| |_____/_/   \_\____/|____/  [0m
+[36m====================================================[0m
+
+delay/task: 10s | limit: semua
+akun source: /home/runner/work/c21hcG9ja2VSZXZpZGE/c21hcG9ja2VSZXZpZGE/account.json | jumlah: 1
+mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch Anime, Read Article, Quiz Anime, Music Missions, Claim Missions, Check Eligibility, Read Manga, Get Gift, Setup Profile, Bind Wallet SEQUENSIAL
+
+
+===== [1/1] Revida =====
+[1]Revida      |08:04:45 | 11-10-2026| login OK @revidachandrika | score=920 rank=6376
+[1]Revida      |08:04:45 | 11-10-2026| serverTime=2026-10-11T08:04:45.000Z local=2026-10-11T08:04:45.873Z
+--> [1]Revida menjalankan: Claim Daily
+[1]Revida      |08:04:46 | 11-10-2026| daily: sudah klaim (already=true) score=920
+--> [1]Revida menjalankan: Auto All Tasks (3 pending)
+[1]Revida      |08:04:50 | 11-10-2026| [1/3] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/revidachandrika/status/2109193185804922736
+[1]Revida      |08:04:50 | 11-10-2026| delay 10s...
+[1]Revida      |08:05:04 | 11-10-2026| [2/3] 1499c73c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/revidachandrika/status/2109193047638457925
+[1]Revida      |08:05:04 | 11-10-2026| delay 10s...
+[1]Revida      |08:05:16 | 11-10-2026| [3/3] e62ee4d9 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/revidachandrika/status/2109193061439745486
+[1]Revida      |08:05:16 | 11-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Revida      |08:05:17 | 11-10-2026| [1/1] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/revidachandrika/status/2109193158907120725
+--> [1]Revida menjalankan: Watch Anime
+[1]Revida      |08:05:18 | 11-10-2026| watch: 1 video belum completed: oshi-first-journey
+[1]Revida      |08:05:18 | 11-10-2026| watch [1/1] farming oshi-first-journey...
+[1]Revida      |08:05:20 | 11-10-2026| watch oshi-first-journey: 0% (0.00/87.00s)
+[1]Revida      |08:05:29 | 11-10-2026| watch oshi-first-journey: 6% (5.34/87.00s)
+[1]Revida      |08:05:36 | 11-10-2026| watch oshi-first-journey: 14% (12.73/87.00s)
+[1]Revida      |08:05:47 | 11-10-2026| watch oshi-first-journey: 22% (19.28/87.00s)
+[1]Revida      |08:05:54 | 11-10-2026| watch oshi-first-journey: 30% (26.69/87.00s)
+[1]Revida      |08:06:02 | 11-10-2026| watch oshi-first-journey: 38% (33.32/87.00s)
+[1]Revida      |08:06:12 | 11-10-2026| watch oshi-first-journey: 46% (40.78/87.00s)
+[1]Revida      |08:06:22 | 11-10-2026| watch oshi-first-journey: 56% (49.26/87.00s)
+[1]Revida      |08:06:29 | 11-10-2026| watch oshi-first-journey: 64% (56.10/87.00s)
+[1]Revida      |08:06:36 | 11-10-2026| watch oshi-first-journey: 71% (62.23/87.00s)
+[1]Revida      |08:06:44 | 11-10-2026| watch oshi-first-journey: 78% (68.55/87.00s)
+[1]Revida      |08:06:51 | 11-10-2026| watch oshi-first-journey: 87% (75.78/87.00s)
+[1]Revida      |08:06:58 | 11-10-2026| watch oshi-first-journey: 93% (81.70/87.00s)
+[1]Revida      |08:06:58 | 11-10-2026| watch oshi-first-journey: COMPLETED (81.70/87.00s)
+--> [1]Revida menjalankan: Read Article
+[1]Revida      |08:06:59 | 11-10-2026| news: 24/24 artikel selesai dibaca
+[1]Revida      |08:07:00 | 11-10-2026| mint eligibility: {"userId":"1780951410387095552","youtube":{"url":"https://www.youtube.com/@reviidaa","status":"submitted","revision":"d9c02bbb-9fc6-4ad3-a1a8-8cc64d815279","submittedAt":1791678658,"reviewedAt":179168
+[1]Revida      |08:07:00 | 11-10-2026| news: semua artikel sudah dibaca
+--> [1]Revida menjalankan: Quiz Anime
+[1]Revida      |08:07:02 | 11-10-2026| quiz ep1: sudah dijawab
+[1]Revida      |08:07:02 | 11-10-2026| quiz ep2: sudah dijawab
+[1]Revida      |08:07:02 | 11-10-2026| quiz ep3: sudah dijawab
+[1]Revida      |08:07:02 | 11-10-2026| quiz ep4: sudah dijawab
+[1]Revida      |08:07:02 | 11-10-2026| quiz ep5: sudah dijawab
+[1]Revida      |08:07:02 | 11-10-2026| quiz ep6: sudah dijawab
+--> [1]Revida menjalankan: Music Missions (realtime, bisa lama!)
+[1]Revida      |08:07:09 | 11-10-2026| music memutar "うたかた" (185s)...
+[1]Revida      |08:07:21 | 11-10-2026| music "うたかた": 4% (9.0027/185s)
+[1]Revida      |08:07:33 | 11-10-2026| music "うたかた": 10% (19.4922/185s)
+[1]Revida      |08:07:44 | 11-10-2026| music "うたかた": 16% (30.3597/185s)
+[1]Revida      |08:07:57 | 11-10-2026| music "うたかた": 21% (40.4901/185s)
+[1]Revida      |08:08:09 | 11-10-2026| music "うたかた": 28% (51.9642/185s)
+[1]Revida      |08:08:22 | 11-10-2026| music "うたかた": 34% (63.120599999999996/185s)
+[1]Revida      |08:08:35 | 11-10-2026| music "うたかた": 40% (74.63159999999999/185s)
+[1]Revida      |08:08:47 | 11-10-2026| music "うたかた": 46% (86.6673/185s)
+[1]Revida      |08:08:59 | 11-10-2026| music "うたかた": 52% (97.47/185s)
+[1]Revida      |08:09:14 | 11-10-2026| music "うたかた": 58% (107.6868/185s)
+[1]Revida      |08:09:25 | 11-10-2026| music "うたかた": 65% (121.23270000000001/185s)
+[1]Revida      |08:09:36 | 11-10-2026| music "うたかた": 70% (131.0148/185s)
+[1]Revida      |08:09:48 | 11-10-2026| music "うたかた": 76% (141.1533/185s)
+[1]Revida      |08:09:59 | 11-10-2026| music "うたかた": 82% (151.767/185s)
+[1]Revida      |08:09:59 | 11-10-2026| music "うたかた": selesai 151.767s
+[1]Revida      |08:10:01 | 11-10-2026| music memutar "ぬくもり" (188s)...
+[1]Revida      |08:10:12 | 11-10-2026| music "ぬくもり": 4% (9.0027/188s)
+[1]Revida      |08:10:23 | 11-10-2026| music "ぬくもり": 9% (18.754200000000004/188s)
+[1]Revida      |08:10:34 | 11-10-2026| music "ぬくもり": 15% (28.691100000000006/188s)
+[1]Revida      |08:10:46 | 11-10-2026| music "ぬくもり": 20% (38.63250000000001/188s)
+[1]Revida      |08:10:58 | 11-10-2026| music "ぬくもり": 26% (49.47390000000001/188s)
+[1]Revida      |08:11:10 | 11-10-2026| music "ぬくもり": 32% (60.375600000000006/188s)
+[1]Revida      |08:11:22 | 11-10-2026| music "ぬくもり": 38% (71.4564/188s)
+[1]Revida      |08:11:35 | 11-10-2026| music "ぬくもり": 43% (82.458/188s)
+[1]Revida      |08:11:46 | 11-10-2026| music "ぬくもり": 50% (94.0941/188s)
+[1]Revida      |08:11:57 | 11-10-2026| music "ぬくもり": 55% (103.8141/188s)
+[1]Revida      |08:12:08 | 11-10-2026| music "ぬくもり": 60% (113.54129999999999/188s)
+[1]Revida      |08:12:19 | 11-10-2026| music "ぬくもり": 65% (123.61319999999999/188s)
+[1]Revida      |08:12:33 | 11-10-2026| music "ぬくもり": 70% (133.344/188s)
+[1]Revida      |08:12:43 | 11-10-2026| music "ぬくもり": 77% (145.6137/188s)
+[1]Revida      |08:12:55 | 11-10-2026| music "ぬくもり": 82% (155.3175/188s)
+[1]Revida      |08:12:55 | 11-10-2026| music "ぬくもり": selesai 155.3175s
+[1]Revida      |08:12:57 | 11-10-2026| music memutar "桃色の頃" (213s)...
+[1]Revida      |08:13:08 | 11-10-2026| music "桃色の頃": 4% (9.0009/213s)
+[1]Revida      |08:13:19 | 11-10-2026| music "桃色の頃": 8% (18.7551/213s)
+[1]Revida      |08:13:30 | 11-10-2026| music "桃色の頃": 13% (28.466099999999997/213s)
+[1]Revida      |08:13:41 | 11-10-2026| music "桃色の頃": 17% (38.256299999999996/213s)
+[1]Revida      |08:13:52 | 11-10-2026| music "桃色の頃": 22% (48.40559999999999/213s)
+[1]Revida      |08:14:04 | 11-10-2026| music "桃色の頃": 27% (58.550399999999996/213s)
+[1]Revida      |08:14:16 | 11-10-2026| music "桃色の頃": 32% (69.0219/213s)
+[1]Revida      |08:14:26 | 11-10-2026| music "桃色の頃": 37% (79.3125/213s)
+[1]Revida      |08:14:37 | 11-10-2026| music "桃色の頃": 41% (89.0631/213s)
+[1]Revida      |08:14:49 | 11-10-2026| music "桃色の頃": 46% (98.9415/213s)
+[1]Revida      |08:15:00 | 11-10-2026| music "桃色の頃": 51% (109.41120000000001/213s)
+[1]Revida      |08:15:12 | 11-10-2026| music "桃色の頃": 56% (119.5425/213s)
+[1]Revida      |08:15:23 | 11-10-2026| music "桃色の頃": 61% (129.9447/213s)
+[1]Revida      |08:15:35 | 11-10-2026| music "桃色の頃": 65% (139.66830000000002/213s)
+[1]Revida      |08:15:46 | 11-10-2026| music "桃色の頃": 70% (150.58710000000002/213s)
+[1]Revida      |08:15:58 | 11-10-2026| music "桃色の頃": 75% (160.97310000000002/213s)
+[1]Revida      |08:16:09 | 11-10-2026| music "桃色の頃": 80% (171.5346/213s)
+[1]Revida      |08:16:09 | 11-10-2026| music "桃色の頃": selesai 171.5346s
+[1]Revida      |08:16:13 | 11-10-2026| music memutar "記憶の名前" (224s)...
+[1]Revida      |08:16:24 | 11-10-2026| music "記憶の名前": 4% (9.001800000000001/224s)
+[1]Revida      |08:16:35 | 11-10-2026| music "記憶の名前": 8% (19.0989/224s)
+[1]Revida      |08:16:47 | 11-10-2026| music "記憶の名前": 13% (29.1348/224s)
+[1]Revida      |08:16:58 | 11-10-2026| music "記憶の名前": 17% (39.477599999999995/224s)
+[1]Revida      |08:17:10 | 11-10-2026| music "記憶の名前": 21% (49.1814/224s)
+[1]Revida      |08:17:21 | 11-10-2026| music "記憶の名前": 26% (59.9796/224s)
+[1]Revida      |08:17:35 | 11-10-2026| music "記憶の名前": 31% (70.0884/224s)
+[1]Revida      |08:17:45 | 11-10-2026| music "記憶の名前": 36% (82.42559999999999/224s)
+[1]Revida      |08:17:57 | 11-10-2026| music "記憶の名前": 41% (92.23469999999999/224s)
+[1]Revida      |08:18:08 | 11-10-2026| music "記憶の名前": 45% (102.4164/224s)
+[1]Revida      |08:18:20 | 11-10-2026| music "記憶の名前": 50% (112.15169999999999/224s)
+[1]Revida      |08:18:31 | 11-10-2026| music "記憶の名前": 54% (123.1236/224s)
+[1]Revida      |08:18:43 | 11-10-2026| music "記憶の名前": 59% (132.8562/224s)
+[1]Revida      |08:18:54 | 11-10-2026| music "記憶の名前": 64% (144.3294/224s)
+[1]Revida      |08:19:06 | 11-10-2026| music "記憶の名前": 68% (154.2159/224s)
+[1]Revida      |08:19:17 | 11-10-2026| music "記憶の名前": 73% (164.502/224s)
+[1]Revida      |08:19:29 | 11-10-2026| music "記憶の名前": 77% (174.2544/224s)
+[1]Revida      |08:19:40 | 11-10-2026| music "記憶の名前": 82% (185.4486/224s)
+[1]Revida      |08:19:40 | 11-10-2026| music "記憶の名前": selesai 185.4486s
+[1]Revida      |08:19:44 | 11-10-2026| music memutar "Smart Pocket" (232s)...
+[1]Revida      |08:19:54 | 11-10-2026| music "Smart Pocket": 3% (9.0045/232s)
+[1]Revida      |08:20:05 | 11-10-2026| music "Smart Pocket": 8% (18.846/232s)
+[1]Revida      |08:20:17 | 11-10-2026| music "Smart Pocket": 12% (28.6614/232s)
+[1]Revida      |08:20:30 | 11-10-2026| music "Smart Pocket": 16% (39.359700000000004/232s)
+[1]Revida      |08:20:43 | 11-10-2026| music "Smart Pocket": 22% (51.2316/232s)
+[1]Revida      |08:20:53 | 11-10-2026| music "Smart Pocket": 26% (62.1729/232s)
+[1]Revida      |08:21:04 | 11-10-2026| music "Smart Pocket": 30% (71.9154/232s)
+[1]Revida      |08:21:16 | 11-10-2026| music "Smart Pocket": 35% (81.7677/232s)
+[1]Revida      |08:21:28 | 11-10-2026| music "Smart Pocket": 39% (92.1915/232s)
+[1]Revida      |08:21:39 | 11-10-2026| music "Smart Pocket": 44% (102.72510000000001/232s)
+[1]Revida      |08:21:50 | 11-10-2026| music "Smart Pocket": 48% (112.48290000000001/232s)
+[1]Revida      |08:22:01 | 11-10-2026| music "Smart Pocket": 52% (122.88600000000001/232s)
+[1]Revida      |08:22:12 | 11-10-2026| music "Smart Pocket": 57% (132.6312/232s)
+[1]Revida      |08:22:23 | 11-10-2026| music "Smart Pocket": 61% (142.35930000000002/232s)
+[1]Revida      |08:22:34 | 11-10-2026| music "Smart Pocket": 65% (152.1639/232s)
+[1]Revida      |08:22:45 | 11-10-2026| music "Smart Pocket": 69% (162.3762/232s)
+[1]Revida      |08:22:56 | 11-10-2026| music "Smart Pocket": 74% (172.7055/232s)
+[1]Revida      |08:23:07 | 11-10-2026| music "Smart Pocket": 78% (182.4381/232s)
+[1]Revida      |08:23:18 | 11-10-2026| music "Smart Pocket": 82% (192.1797/232s)
+[1]Revida      |08:23:19 | 11-10-2026| music "Smart Pocket": selesai 192.1797s
+[1]Revida      |08:23:21 | 11-10-2026| music memutar "神様みたいに" (254s)...
+[1]Revida      |08:23:34 | 11-10-2026| music "神様みたいに": 3% (9.0054/254s)
+[1]Revida      |08:23:44 | 11-10-2026| music "神様みたいに": 8% (20.6253/254s)
+[1]Revida      |08:23:59 | 11-10-2026| music "神様みたいに": 11% (30.3579/254s)
+[1]Revida      |08:24:10 | 11-10-2026| music "神様みたいに": 17% (43.5924/254s)
+[1]Revida      |08:24:21 | 11-10-2026| music "神様みたいに": 20% (53.3358/254s)
+[1]Revida      |08:24:33 | 11-10-2026| music "神様みたいに": 25% (63.7497/254s)
+[1]Revida      |08:24:44 | 11-10-2026| music "神様みたいに": 29% (73.917/254s)
+[1]Revida      |08:24:54 | 11-10-2026| music "神様みたいに": 32% (83.6622/254s)
+[1]Revida      |08:25:05 | 11-10-2026| music "神様みたいに": 36% (93.4038/254s)
+[1]Revida      |08:25:17 | 11-10-2026| music "神様みたいに": 40% (103.1517/254s)
+[1]Revida      |08:25:28 | 11-10-2026| music "神様みたいに": 44% (113.84190000000001/254s)
+[1]Revida      |08:25:39 | 11-10-2026| music "神様みたいに": 48% (123.6222/254s)
+[1]Revida      |08:25:52 | 11-10-2026| music "神様みたいに": 52% (133.7751/254s)
+[1]Revida      |08:26:02 | 11-10-2026| music "神様みたいに": 57% (144.8757/254s)
+[1]Revida      |08:26:13 | 11-10-2026| music "神様みたいに": 60% (154.6461/254s)
+[1]Revida      |08:26:25 | 11-10-2026| music "神様みたいに": 64% (164.4093/254s)
+[1]Revida      |08:26:38 | 11-10-2026| music "神様みたいに": 69% (175.3191/254s)
+[1]Revida      |08:26:50 | 11-10-2026| music "神様みたいに": 73% (186.3603/254s)
+[1]Revida      |08:27:02 | 11-10-2026| music "神様みたいに": 77% (197.7948/254s)
+[1]Revida      |08:27:14 | 11-10-2026| music "神様みたいに": 82% (208.5903/254s)
+[1]Revida      |08:27:16 | 11-10-2026| music "神様みたいに": selesai 208.5903s
+[1]Revida      |08:27:18 | 11-10-2026| music memutar "せーので、飛ぼう！" (269s)...
+[1]Revida      |08:27:29 | 11-10-2026| music "せーので、飛ぼう！": 3% (9.0045/269s)
+[1]Revida      |08:27:42 | 11-10-2026| music "せーので、飛ぼう！": 7% (19.0593/269s)
+[1]Revida      |08:27:53 | 11-10-2026| music "せーので、飛ぼう！": 11% (30.495600000000003/269s)
+[1]Revida      |08:28:05 | 11-10-2026| music "せーので、飛ぼう！": 15% (40.9221/269s)
+[1]Revida      |08:28:16 | 11-10-2026| music "せーので、飛ぼう！": 19% (51.1182/269s)
+[1]Revida      |08:28:27 | 11-10-2026| music "せーので、飛ぼう！": 22% (61.109100000000005/269s)
+[1]Revida      |08:28:38 | 11-10-2026| music "せーので、飛ぼう！": 26% (70.8498/269s)
+[1]Revida      |08:28:50 | 11-10-2026| music "せーので、飛ぼう！": 30% (81.3204/269s)
+[1]Revida      |08:29:02 | 11-10-2026| music "せーので、飛ぼう！": 34% (92.0421/269s)
+[1]Revida      |08:29:15 | 11-10-2026| music "せーので、飛ぼう！": 38% (102.834/269s)
+[1]Revida      |08:29:26 | 11-10-2026| music "せーので、飛ぼう！": 42% (114.6384/269s)
+[1]Revida      |08:29:38 | 11-10-2026| music "せーので、飛ぼう！": 46% (124.3674/269s)
+[1]Revida      |08:29:50 | 11-10-2026| music "せーので、飛ぼう！": 50% (135.1305/269s)
+[1]Revida      |08:30:01 | 11-10-2026| music "せーので、飛ぼう！": 54% (145.41840000000002/269s)
+[1]Revida      |08:30:13 | 11-10-2026| music "せーので、飛ぼう！": 57% (155.66670000000002/269s)
+[1]Revida      |08:30:25 | 11-10-2026| music "せーので、飛ぼう！": 61% (166.4181/269s)
+[1]Revida      |08:30:36 | 11-10-2026| music "せーので、飛ぼう！": 66% (177.5826/269s)
+[1]Revida      |08:30:48 | 11-10-2026| music "せーので、飛ぼう！": 69% (187.3494/269s)
+[1]Revida      |08:30:59 | 11-10-2026| music "せーので、飛ぼう！": 73% (198.0864/269s)
+[1]Revida      |08:31:10 | 11-10-2026| music "せーので、飛ぼう！": 77% (207.8055/269s)
+[1]Revida      |08:31:23 | 11-10-2026| music "せーので、飛ぼう！": 81% (218.0133/269s)
+[1]Revida      |08:31:24 | 11-10-2026| music "せーので、飛ぼう！": selesai 218.0133s
+[1]Revida      |08:31:28 | 11-10-2026| music memutar "ON CHAIN NEXUS" (276s)...
+[1]Revida      |08:31:39 | 11-10-2026| music "ON CHAIN NEXUS": 3% (9.0054/276s)
+[1]Revida      |08:31:52 | 11-10-2026| music "ON CHAIN NEXUS": 7% (19.482300000000002/276s)
+[1]Revida      |08:32:03 | 11-10-2026| music "ON CHAIN NEXUS": 11% (30.6567/276s)
+[1]Revida      |08:32:14 | 11-10-2026| music "ON CHAIN NEXUS": 14% (40.463100000000004/276s)
+[1]Revida      |08:32:25 | 11-10-2026| music "ON CHAIN NEXUS": 18% (50.67/276s)
+[1]Revida      |08:32:36 | 11-10-2026| music "ON CHAIN NEXUS": 21% (60.5754/276s)
+[1]Revida      |08:32:48 | 11-10-2026| music "ON CHAIN NEXUS": 25% (70.6311/276s)
+[1]Revida      |08:32:58 | 11-10-2026| music "ON CHAIN NEXUS": 29% (80.9955/276s)
+[1]Revida      |08:33:09 | 11-10-2026| music "ON CHAIN NEXUS": 32% (90.73440000000001/276s)
+[1]Revida      |08:33:21 | 11-10-2026| music "ON CHAIN NEXUS": 36% (100.47420000000001/276s)
+[1]Revida      |08:33:32 | 11-10-2026| music "ON CHAIN NEXUS": 40% (110.58480000000002/276s)
+[1]Revida      |08:33:43 | 11-10-2026| music "ON CHAIN NEXUS": 43% (121.15260000000002/276s)
+[1]Revida      |08:33:56 | 11-10-2026| music "ON CHAIN NEXUS": 47% (130.9293/276s)
+[1]Revida      |08:34:07 | 11-10-2026| music "ON CHAIN NEXUS": 51% (142.32510000000002/276s)
+[1]Revida      |08:34:19 | 11-10-2026| music "ON CHAIN NEXUS": 55% (152.61120000000003/276s)
+[1]Revida      |08:34:30 | 11-10-2026| music "ON CHAIN NEXUS": 59% (162.96030000000002/276s)
+[1]Revida      |08:34:41 | 11-10-2026| music "ON CHAIN NEXUS": 62% (172.6749/276s)
+[1]Revida      |08:34:53 | 11-10-2026| music "ON CHAIN NEXUS": 66% (182.7081/276s)
+[1]Revida      |08:35:05 | 11-10-2026| music "ON CHAIN NEXUS": 70% (193.7097/276s)
+[1]Revida      |08:35:17 | 11-10-2026| music "ON CHAIN NEXUS": 74% (204.5151/276s)
+[1]Revida      |08:35:30 | 11-10-2026| music "ON CHAIN NEXUS": 77% (215.27009999999999/276s)
+[1]Revida      |08:35:42 | 11-10-2026| music "ON CHAIN NEXUS": 82% (226.6497/276s)
+[1]Revida      |08:35:44 | 11-10-2026| music "ON CHAIN NEXUS": selesai 226.6497s
+[1]Revida      |08:35:44 | 11-10-2026| music: kedua misi sudah tercapai, stop
+[1]Revida      |08:35:46 | 11-10-2026| mission music-listens-10: CLAIM OK +10 poin
+[1]Revida      |08:35:49 | 11-10-2026| mission music-minutes-30: CLAIM OK +10 poin
+[1]Revida      |08:35:53 | 11-10-2026| mission anime-completed-3: CLAIM OK +10 poin
+--> [1]Revida menjalankan: Claim Missions
+[1]Revida      |08:35:57 | 11-10-2026| mission music-listens-10: sudah diklaim
+[1]Revida      |08:35:57 | 11-10-2026| mission music-minutes-30: sudah diklaim
+[1]Revida      |08:35:57 | 11-10-2026| mission anime-completed-3: sudah diklaim
+--> [1]Revida menjalankan: Check Eligibility
+
+--- eligibility [1]Revida ---
+  @revidachandrika | score=920 rank=6376
+  tasks    [###################-] 73/76
+  mission  music-listens-10:      claimed
+  mission  music-minutes-30:      claimed
+  mission  anime-completed-3:     claimed
+  quiz     [####################] 6/6
+  watch    [####################] 18/17
+  music    [####################] 11/11
+  artikel  [####################] 24/24
+  mint: requirementsMet=false mintOpen=false discord=true
+
+--> [1]Revida menjalankan: Read Manga
+[1]Revida      |08:36:06 | 11-10-2026| manga: 13/13 chapter belum completed
+[1]Revida      |08:36:06 | 11-10-2026| manga [1/13] membaca ch.1 (19 hal)...
+[1]Revida      |08:36:12 | 11-10-2026| manga ch1 (1): page 1/19 (5%) 0s
+[1]Revida      |08:36:17 | 11-10-2026| manga ch1 (1): page 2/19 (10%) 4s
+[1]Revida      |08:36:21 | 11-10-2026| manga ch1 (1): page 3/19 (15%) 9s
+[1]Revida      |08:36:26 | 11-10-2026| manga ch1 (1): page 4/19 (21%) 14s
+[1]Revida      |08:36:30 | 11-10-2026| manga ch1 (1): page 5/19 (26%) 18s
+[1]Revida      |08:36:34 | 11-10-2026| manga ch1 (1): page 6/19 (31%) 22s
+[1]Revida      |08:36:39 | 11-10-2026| manga ch1 (1): page 7/19 (36%) 27s
+[1]Revida      |08:36:44 | 11-10-2026| manga ch1 (1): page 8/19 (42%) 32s
+[1]Revida      |08:36:48 | 11-10-2026| manga ch1 (1): page 9/19 (47%) 36s
+[1]Revida      |08:36:54 | 11-10-2026| manga ch1 (1): page 10/19 (52%) 41s
+[1]Revida      |08:36:59 | 11-10-2026| manga ch1 (1): page 11/19 (57%) 46s
+[1]Revida      |08:37:03 | 11-10-2026| manga ch1 (1): page 12/19 (63%) 51s
+[1]Revida      |08:37:08 | 11-10-2026| manga ch1 (1): page 13/19 (68%) 56s
+[1]Revida      |08:37:13 | 11-10-2026| manga ch1 (1): page 14/19 (73%) 60s
+[1]Revida      |08:37:19 | 11-10-2026| manga ch1 (1): page 15/19 (78%) 66s
+[1]Revida      |08:37:24 | 11-10-2026| manga ch1 (1): page 16/19 (84%) 71s
+[1]Revida      |08:37:28 | 11-10-2026| manga ch1 (1): page 17/19 (89%) 76s
+[1]Revida      |08:37:34 | 11-10-2026| manga ch1 (1): page 18/19 (94%) 81s
+[1]Revida      |08:37:38 | 11-10-2026| manga ch1 (1): page 19/19 (99%) 86s
+[1]Revida      |08:37:43 | 11-10-2026| manga ch1 (1): COMPLETED
+[1]Revida      |08:37:46 | 11-10-2026| manga [2/13] membaca ch.2 (18 hal)...
+[1]Revida      |08:37:52 | 11-10-2026| manga ch2 (450001): page 1/18 (5%) 0s
+[1]Revida      |08:37:56 | 11-10-2026| manga ch2 (450001): page 2/18 (11%) 4s
+[1]Revida      |08:38:02 | 11-10-2026| manga ch2 (450001): page 3/18 (16%) 9s
+[1]Revida      |08:38:06 | 11-10-2026| manga ch2 (450001): page 4/18 (22%) 14s
+[1]Revida      |08:38:10 | 11-10-2026| manga ch2 (450001): page 5/18 (27%) 18s
+[1]Revida      |08:38:16 | 11-10-2026| manga ch2 (450001): page 6/18 (33%) 23s
+[1]Revida      |08:38:20 | 11-10-2026| manga ch2 (450001): page 7/18 (38%) 28s
+[1]Revida      |08:38:25 | 11-10-2026| manga ch2 (450001): page 8/18 (44%) 33s
+[1]Revida      |08:38:29 | 11-10-2026| manga ch2 (450001): page 9/18 (50%) 37s
+[1]Revida      |08:38:33 | 11-10-2026| manga ch2 (450001): page 10/18 (55%) 41s
+[1]Revida      |08:38:38 | 11-10-2026| manga ch2 (450001): page 11/18 (61%) 46s
+[1]Revida      |08:38:45 | 11-10-2026| manga ch2 (450001): page 12/18 (66%) 51s
+[1]Revida      |08:38:49 | 11-10-2026| manga ch2 (450001): page 13/18 (72%) 58s
+[1]Revida      |08:38:54 | 11-10-2026| manga ch2 (450001): page 14/18 (77%) 62s
+[1]Revida      |08:39:00 | 11-10-2026| manga ch2 (450001): page 15/18 (83%) 67s
+[1]Revida      |08:39:04 | 11-10-2026| manga ch2 (450001): page 16/18 (88%) 73s
+[1]Revida      |08:39:11 | 11-10-2026| manga ch2 (450001): page 17/18 (94%) 77s
+[1]Revida      |08:39:16 | 11-10-2026| manga ch2 (450001): page 18/18 (99%) 83s
+[1]Revida      |08:39:20 | 11-10-2026| manga ch2 (450001): COMPLETED
+[1]Revida      |08:39:23 | 11-10-2026| manga [3/13] membaca ch.3 (17 hal)...
+[1]Revida      |08:39:29 | 11-10-2026| manga ch3 (2160001): page 1/17 (5%) 0s
+[1]Revida      |08:39:33 | 11-10-2026| manga ch3 (2160001): page 2/17 (11%) 4s
+[1]Revida      |08:39:38 | 11-10-2026| manga ch3 (2160001): page 3/17 (17%) 9s
+[1]Revida      |08:39:43 | 11-10-2026| manga ch3 (2160001): page 4/17 (23%) 13s
+[1]Revida      |08:39:49 | 11-10-2026| manga ch3 (2160001): page 5/17 (29%) 19s
+[1]Revida      |08:39:53 | 11-10-2026| manga ch3 (2160001): page 6/17 (35%) 25s
+[1]Revida      |08:39:59 | 11-10-2026| manga ch3 (2160001): page 7/17 (41%) 29s
+[1]Revida      |08:40:04 | 11-10-2026| manga ch3 (2160001): page 8/17 (47%) 35s
+[1]Revida      |08:40:09 | 11-10-2026| manga ch3 (2160001): page 9/17 (52%) 40s
+[1]Revida      |08:40:18 | 11-10-2026| manga ch3 (2160001): page 10/17 (58%) 45s
+[1]Revida      |08:40:23 | 11-10-2026| manga ch3 (2160001): page 11/17 (64%) 54s
+[1]Revida      |08:40:27 | 11-10-2026| manga ch3 (2160001): page 12/17 (70%) 58s
+[1]Revida      |08:40:32 | 11-10-2026| manga ch3 (2160001): page 13/17 (76%) 63s
+[1]Revida      |08:40:37 | 11-10-2026| manga ch3 (2160001): page 14/17 (82%) 68s
+[1]Revida      |08:40:44 | 11-10-2026| manga ch3 (2160001): page 15/17 (88%) 73s
+[1]Revida      |08:40:48 | 11-10-2026| manga ch3 (2160001): page 16/17 (94%) 79s
+[1]Revida      |08:40:55 | 11-10-2026| manga ch3 (2160001): page 17/17 (99%) 84s
+[1]Revida      |08:40:59 | 11-10-2026| manga ch3 (2160001): COMPLETED
+[1]Revida      |08:41:02 | 11-10-2026| manga [4/13] membaca ch.4 (17 hal)...
+[1]Revida      |08:41:08 | 11-10-2026| manga ch4 (2400001): page 1/17 (5%) 0s
+[1]Revida      |08:41:13 | 11-10-2026| manga ch4 (2400001): page 2/17 (11%) 5s
+[1]Revida      |08:41:18 | 11-10-2026| manga ch4 (2400001): page 3/17 (17%) 11s
+[1]Revida      |08:41:24 | 11-10-2026| manga ch4 (2400001): page 4/17 (23%) 15s
+[1]Revida      |08:41:32 | 11-10-2026| manga ch4 (2400001): page 5/17 (29%) 22s
+[1]Revida      |08:41:38 | 11-10-2026| manga ch4 (2400001): page 6/17 (35%) 29s
+[1]Revida      |08:41:44 | 11-10-2026| manga ch4 (2400001): page 7/17 (41%) 35s
+[1]Revida      |08:41:50 | 11-10-2026| manga ch4 (2400001): page 8/17 (47%) 41s
+[1]Revida      |08:41:54 | 11-10-2026| manga ch4 (2400001): page 9/17 (52%) 47s
+[1]Revida      |08:41:59 | 11-10-2026| manga ch4 (2400001): page 10/17 (58%) 52s
+[1]Revida      |08:42:04 | 11-10-2026| manga ch4 (2400001): page 11/17 (64%) 56s
+[1]Revida      |08:42:08 | 11-10-2026| manga ch4 (2400001): page 12/17 (70%) 61s
+[1]Revida      |08:42:12 | 11-10-2026| manga ch4 (2400001): page 13/17 (76%) 65s
+[1]Revida      |08:42:18 | 11-10-2026| manga ch4 (2400001): page 14/17 (82%) 69s
+[1]Revida      |08:42:24 | 11-10-2026| manga ch4 (2400001): page 15/17 (88%) 75s
+[1]Revida      |08:42:31 | 11-10-2026| manga ch4 (2400001): page 16/17 (94%) 81s
+[1]Revida      |08:42:37 | 11-10-2026| manga ch4 (2400001): page 17/17 (99%) 88s
+[1]Revida      |08:42:42 | 11-10-2026| manga ch4 (2400001): COMPLETED
+[1]Revida      |08:42:45 | 11-10-2026| manga [5/13] membaca ch.5 (18 hal)...
+[1]Revida      |08:42:50 | 11-10-2026| manga ch5 (2490001): page 1/18 (5%) 0s
+[1]Revida      |08:42:55 | 11-10-2026| manga ch5 (2490001): page 2/18 (11%) 5s
+[1]Revida      |08:43:01 | 11-10-2026| manga ch5 (2490001): page 3/18 (16%) 10s
+[1]Revida      |08:43:08 | 11-10-2026| manga ch5 (2490001): page 4/18 (22%) 16s
+[1]Revida      |08:43:12 | 11-10-2026| manga ch5 (2490001): page 5/18 (27%) 22s
+[1]Revida      |08:43:17 | 11-10-2026| manga ch5 (2490001): page 6/18 (33%) 27s
+[1]Revida      |08:43:21 | 11-10-2026| manga ch5 (2490001): page 7/18 (38%) 31s
+[1]Revida      |08:43:27 | 11-10-2026| manga ch5 (2490001): page 8/18 (44%) 35s
+[1]Revida      |08:43:31 | 11-10-2026| manga ch5 (2490001): page 9/18 (50%) 41s
+[1]Revida      |08:43:37 | 11-10-2026| manga ch5 (2490001): page 10/18 (55%) 46s
+[1]Revida      |08:43:44 | 11-10-2026| manga ch5 (2490001): page 11/18 (61%) 51s
+[1]Revida      |08:43:54 | 11-10-2026| manga ch5 (2490001): page 12/18 (66%) 58s
+[1]Revida      |08:43:58 | 11-10-2026| manga ch5 (2490001): page 13/18 (72%) 68s
+[1]Revida      |08:44:03 | 11-10-2026| manga ch5 (2490001): page 14/18 (77%) 72s
+[1]Revida      |08:44:10 | 11-10-2026| manga ch5 (2490001): page 15/18 (83%) 77s
+[1]Revida      |08:44:16 | 11-10-2026| manga ch5 (2490001): page 16/18 (88%) 84s
+[1]Revida      |08:44:25 | 11-10-2026| manga ch5 (2490001): page 17/18 (94%) 90s
+[1]Revida      |08:44:31 | 11-10-2026| manga ch5 (2490001): page 18/18 (99%) 99s
+[1]Revida      |08:44:36 | 11-10-2026| manga ch5 (2490001): COMPLETED
+[1]Revida      |08:44:39 | 11-10-2026| manga [6/13] membaca ch.6 (17 hal)...
+[1]Revida      |08:44:45 | 11-10-2026| manga ch6 (2610001): page 1/17 (5%) 0s
+[1]Revida      |08:44:49 | 11-10-2026| manga ch6 (2610001): page 2/17 (11%) 5s
+[1]Revida      |08:44:54 | 11-10-2026| manga ch6 (2610001): page 3/17 (17%) 9s
+[1]Revida      |08:44:59 | 11-10-2026| manga ch6 (2610001): page 4/17 (23%) 14s
+[1]Revida      |08:45:03 | 11-10-2026| manga ch6 (2610001): page 5/17 (29%) 18s
+[1]Revida      |08:45:08 | 11-10-2026| manga ch6 (2610001): page 6/17 (35%) 22s
+[1]Revida      |08:45:12 | 11-10-2026| manga ch6 (2610001): page 7/17 (41%) 27s
+[1]Revida      |08:45:16 | 11-10-2026| manga ch6 (2610001): page 8/17 (47%) 32s
+[1]Revida      |08:45:22 | 11-10-2026| manga ch6 (2610001): page 9/17 (52%) 36s
+[1]Revida      |08:45:28 | 11-10-2026| manga ch6 (2610001): page 10/17 (58%) 41s
+[1]Revida      |08:45:33 | 11-10-2026| manga ch6 (2610001): page 11/17 (64%) 47s
+[1]Revida      |08:45:39 | 11-10-2026| manga ch6 (2610001): page 12/17 (70%) 53s
+[1]Revida      |08:45:45 | 11-10-2026| manga ch6 (2610001): page 13/17 (76%) 59s
+[1]Revida      |08:45:49 | 11-10-2026| manga ch6 (2610001): page 14/17 (82%) 64s
+[1]Revida      |08:45:56 | 11-10-2026| manga ch6 (2610001): page 15/17 (88%) 69s
+[1]Revida      |08:46:01 | 11-10-2026| manga ch6 (2610001): page 16/17 (94%) 76s
+[1]Revida      |08:46:07 | 11-10-2026| manga ch6 (2610001): page 17/17 (99%) 81s
+[1]Revida      |08:46:12 | 11-10-2026| manga ch6 (2610001): COMPLETED
+[1]Revida      |08:46:15 | 11-10-2026| manga [7/13] membaca ch.1 (21 hal)...
+[1]Revida      |08:46:24 | 11-10-2026| manga ch1 (180003): page 1/21 (4%) 0s
+[1]Revida      |08:46:28 | 11-10-2026| manga ch1 (180003): page 2/21 (9%) 7s
+[1]Revida      |08:46:33 | 11-10-2026| manga ch1 (180003): page 3/21 (14%) 11s
+[1]Revida      |08:46:40 | 11-10-2026| manga ch1 (180003): page 4/21 (19%) 16s
+[1]Revida      |08:46:44 | 11-10-2026| manga ch1 (180003): page 5/21 (23%) 22s
+[1]Revida      |08:46:49 | 11-10-2026| manga ch1 (180003): page 6/21 (28%) 26s
+[1]Revida      |08:46:54 | 11-10-2026| manga ch1 (180003): page 7/21 (33%) 32s
+[1]Revida      |08:47:00 | 11-10-2026| manga ch1 (180003): page 8/21 (38%) 37s
+[1]Revida      |08:47:07 | 11-10-2026| manga ch1 (180003): page 9/21 (42%) 43s
+[1]Revida      |08:47:12 | 11-10-2026| manga ch1 (180003): page 10/21 (47%) 50s
+[1]Revida      |08:47:18 | 11-10-2026| manga ch1 (180003): page 11/21 (52%) 55s
+[1]Revida      |08:47:22 | 11-10-2026| manga ch1 (180003): page 12/21 (57%) 60s
+[1]Revida      |08:47:27 | 11-10-2026| manga ch1 (180003): page 13/21 (61%) 65s
+[1]Revida      |08:47:35 | 11-10-2026| manga ch1 (180003): page 14/21 (66%) 70s
+[1]Revida      |08:47:42 | 11-10-2026| manga ch1 (180003): page 15/21 (71%) 78s
+[1]Revida      |08:47:48 | 11-10-2026| manga ch1 (180003): page 16/21 (76%) 85s
+[1]Revida      |08:47:54 | 11-10-2026| manga ch1 (180003): page 17/21 (80%) 90s
+[1]Revida      |08:48:01 | 11-10-2026| manga ch1: page 18 GAGAL http=503
+[1]Revida      |08:48:05 | 11-10-2026| manga ch1 (180003): page 19/21 (90%) 100s
+[1]Revida      |08:48:10 | 11-10-2026| manga ch1 (180003): page 20/21 (95%) 104s
+[1]Revida      |08:48:15 | 11-10-2026| manga ch1 (180003): page 21/21 (99%) 109s
+[1]Revida      |08:48:21 | 11-10-2026| manga ch1 (180003): COMPLETED
+[1]Revida      |08:48:24 | 11-10-2026| manga [8/13] membaca ch.2 (18 hal)...
+[1]Revida      |08:48:32 | 11-10-2026| manga ch2 (990005): page 1/18 (5%) 0s
+[1]Revida      |08:48:36 | 11-10-2026| manga ch2 (990005): page 2/18 (11%) 5s
+[1]Revida      |08:48:40 | 11-10-2026| manga ch2 (990005): page 3/18 (16%) 9s
+[1]Revida      |08:48:45 | 11-10-2026| manga ch2 (990005): page 4/18 (22%) 13s
+[1]Revida      |08:48:49 | 11-10-2026| manga ch2 (990005): page 5/18 (27%) 18s
+[1]Revida      |08:48:54 | 11-10-2026| manga ch2 (990005): page 6/18 (33%) 22s
+[1]Revida      |08:48:58 | 11-10-2026| manga ch2 (990005): page 7/18 (38%) 27s
+[1]Revida      |08:49:02 | 11-10-2026| manga ch2 (990005): page 8/18 (44%) 31s
+[1]Revida      |08:49:06 | 11-10-2026| manga ch2 (990005): page 9/18 (50%) 35s
+[1]Revida      |08:49:11 | 11-10-2026| manga ch2 (990005): page 10/18 (55%) 40s
+[1]Revida      |08:49:16 | 11-10-2026| manga ch2 (990005): page 11/18 (61%) 44s
+[1]Revida      |08:49:20 | 11-10-2026| manga ch2 (990005): page 12/18 (66%) 49s
+[1]Revida      |08:49:25 | 11-10-2026| manga ch2 (990005): page 13/18 (72%) 53s
+[1]Revida      |08:49:29 | 11-10-2026| manga ch2 (990005): page 14/18 (77%) 58s
+[1]Revida      |08:49:33 | 11-10-2026| manga ch2 (990005): page 15/18 (83%) 62s
+[1]Revida      |08:49:38 | 11-10-2026| manga ch2 (990005): page 16/18 (88%) 67s
+[1]Revida      |08:49:42 | 11-10-2026| manga ch2 (990005): page 17/18 (94%) 71s
+[1]Revida      |08:49:46 | 11-10-2026| manga ch2 (990005): page 18/18 (99%) 75s
+[1]Revida      |08:49:51 | 11-10-2026| manga ch2 (990005): COMPLETED
+[1]Revida      |08:49:54 | 11-10-2026| manga [9/13] membaca ch.3 (20 hal)...
+[1]Revida      |08:50:00 | 11-10-2026| manga ch3 (1980001): page 1/20 (5%) 0s
+[1]Revida      |08:50:05 | 11-10-2026| manga ch3 (1980001): page 2/20 (10%) 5s
+[1]Revida      |08:50:10 | 11-10-2026| manga ch3 (1980001): page 3/20 (15%) 9s
+[1]Revida      |08:50:15 | 11-10-2026| manga ch3 (1980001): page 4/20 (20%) 15s
+[1]Revida      |08:50:20 | 11-10-2026| manga ch3 (1980001): page 5/20 (25%) 20s
+[1]Revida      |08:50:24 | 11-10-2026| manga ch3 (1980001): page 6/20 (30%) 25s
+[1]Revida      |08:50:28 | 11-10-2026| manga ch3 (1980001): page 7/20 (35%) 29s
+[1]Revida      |08:50:33 | 11-10-2026| manga ch3 (1980001): page 8/20 (40%) 33s
+[1]Revida      |08:50:37 | 11-10-2026| manga ch3 (1980001): page 9/20 (45%) 38s
+[1]Revida      |08:50:42 | 11-10-2026| manga ch3 (1980001): page 10/20 (50%) 42s
+[1]Revida      |08:50:46 | 11-10-2026| manga ch3 (1980001): page 11/20 (55%) 47s
+[1]Revida      |08:50:51 | 11-10-2026| manga ch3 (1980001): page 12/20 (60%) 51s
+[1]Revida      |08:50:55 | 11-10-2026| manga ch3 (1980001): page 13/20 (65%) 56s
+[1]Revida      |08:51:00 | 11-10-2026| manga ch3 (1980001): page 14/20 (70%) 60s
+[1]Revida      |08:51:05 | 11-10-2026| manga ch3 (1980001): page 15/20 (75%) 65s
+[1]Revida      |08:51:10 | 11-10-2026| manga ch3 (1980001): page 16/20 (80%) 70s
+[1]Revida      |08:51:15 | 11-10-2026| manga ch3 (1980001): page 17/20 (85%) 75s
+[1]Revida      |08:51:20 | 11-10-2026| manga ch3 (1980001): page 18/20 (90%) 80s
+[1]Revida      |08:51:25 | 11-10-2026| manga ch3 (1980001): page 19/20 (95%) 85s
+[1]Revida      |08:51:29 | 11-10-2026| manga ch3 (1980001): page 20/20 (99%) 90s
+[1]Revida      |08:51:36 | 11-10-2026| manga ch3 (1980001): COMPLETED
+[1]Revida      |08:51:39 | 11-10-2026| manga [10/13] membaca ch.1 (9 hal)...
+[1]Revida      |08:51:47 | 11-10-2026| manga ch1 (2100001): page 1/9 (11%) 0s
+[1]Revida      |08:51:53 | 11-10-2026| manga ch1 (2100001): page 2/9 (22%) 6s
+[1]Revida      |08:51:57 | 11-10-2026| manga ch1 (2100001): page 3/9 (33%) 12s
+[1]Revida      |08:52:03 | 11-10-2026| manga ch1 (2100001): page 4/9 (44%) 16s
+[1]Revida      |08:52:09 | 11-10-2026| manga ch1 (2100001): page 5/9 (55%) 22s
+[1]Revida      |08:52:14 | 11-10-2026| manga ch1 (2100001): page 6/9 (66%) 28s
+[1]Revida      |08:52:18 | 11-10-2026| manga ch1 (2100001): page 7/9 (77%) 33s
+[1]Revida      |08:52:22 | 11-10-2026| manga ch1 (2100001): page 8/9 (88%) 37s
+[1]Revida      |08:52:27 | 11-10-2026| manga ch1 (2100001): page 9/9 (99%) 41s
+[1]Revida      |08:52:31 | 11-10-2026| manga ch1 (2100001): COMPLETED
+[1]Revida      |08:52:34 | 11-10-2026| manga [11/13] membaca ch.1 (10 hal)...
+[1]Revida      |08:52:43 | 11-10-2026| manga ch1 (2070001): page 1/10 (10%) 0s
+[1]Revida      |08:52:48 | 11-10-2026| manga ch1 (2070001): page 2/10 (20%) 6s
+[1]Revida      |08:52:53 | 11-10-2026| manga ch1 (2070001): page 3/10 (30%) 11s
+[1]Revida      |08:52:58 | 11-10-2026| manga ch1 (2070001): page 4/10 (40%) 16s
+[1]Revida      |08:53:03 | 11-10-2026| manga ch1 (2070001): page 5/10 (50%) 21s
+[1]Revida      |08:53:08 | 11-10-2026| manga ch1 (2070001): page 6/10 (60%) 26s
+[1]Revida      |08:53:13 | 11-10-2026| manga ch1 (2070001): page 7/10 (70%) 31s
+[1]Revida      |08:53:17 | 11-10-2026| manga ch1 (2070001): page 8/10 (80%) 36s
+[1]Revida      |08:53:21 | 11-10-2026| manga ch1 (2070001): page 9/10 (90%) 40s
+[1]Revida      |08:53:26 | 11-10-2026| manga ch1 (2070001): page 10/10 (99%) 44s
+[1]Revida      |08:53:31 | 11-10-2026| manga ch1 (2070001): COMPLETED
+[1]Revida      |08:53:34 | 11-10-2026| manga [12/13] membaca ch.2 (11 hal)...
+[1]Revida      |08:53:40 | 11-10-2026| manga ch2 (2520001): page 1/11 (9%) 0s
+[1]Revida      |08:53:44 | 11-10-2026| manga ch2 (2520001): page 2/11 (18%) 5s
+[1]Revida      |08:53:49 | 11-10-2026| manga ch2 (2520001): page 3/11 (27%) 9s
+[1]Revida      |08:53:54 | 11-10-2026| manga ch2 (2520001): page 4/11 (36%) 14s
+[1]Revida      |08:53:58 | 11-10-2026| manga ch2 (2520001): page 5/11 (45%) 18s
+[1]Revida      |08:54:03 | 11-10-2026| manga ch2 (2520001): page 6/11 (54%) 23s
+[1]Revida      |08:54:07 | 11-10-2026| manga ch2 (2520001): page 7/11 (63%) 27s
+[1]Revida      |08:54:12 | 11-10-2026| manga ch2 (2520001): page 8/11 (72%) 32s
+[1]Revida      |08:54:18 | 11-10-2026| manga ch2 (2520001): page 9/11 (81%) 37s
+[1]Revida      |08:54:25 | 11-10-2026| manga ch2 (2520001): page 10/11 (90%) 43s
+[1]Revida      |08:54:29 | 11-10-2026| manga ch2 (2520001): page 11/11 (99%) 49s
+[1]Revida      |08:54:33 | 11-10-2026| manga ch2 (2520001): COMPLETED
+[1]Revida      |08:54:36 | 11-10-2026| manga [13/13] membaca ch.3 (11 hal)...
+[1]Revida      |08:54:45 | 11-10-2026| manga ch3 (2550001): page 1/11 (9%) 0s
+[1]Revida      |08:54:51 | 11-10-2026| manga ch3 (2550001): page 2/11 (18%) 8s
+[1]Revida      |08:54:57 | 11-10-2026| manga ch3 (2550001): page 3/11 (27%) 14s
+[1]Revida      |08:55:02 | 11-10-2026| manga ch3 (2550001): page 4/11 (36%) 20s
+[1]Revida      |08:55:06 | 11-10-2026| manga ch3 (2550001): page 5/11 (45%) 25s
+[1]Revida      |08:55:13 | 11-10-2026| manga ch3 (2550001): page 6/11 (54%) 29s
+[1]Revida      |08:55:17 | 11-10-2026| manga ch3 (2550001): page 7/11 (63%) 36s
+[1]Revida      |08:55:24 | 11-10-2026| manga ch3 (2550001): page 8/11 (72%) 40s
+[1]Revida      |08:55:29 | 11-10-2026| manga ch3 (2550001): page 9/11 (81%) 47s
+[1]Revida      |08:55:34 | 11-10-2026| manga ch3 (2550001): page 10/11 (90%) 52s
+[1]Revida      |08:55:39 | 11-10-2026| manga ch3 (2550001): page 11/11 (99%) 57s
+[1]Revida      |08:55:46 | 11-10-2026| manga ch3 (2550001): COMPLETED
+--> [1]Revida menjalankan: Get Gift
+[1]Revida      |08:55:50 | 11-10-2026| gift: 3/3 belum diterima
+[1]Revida      |08:55:52 | 11-10-2026| gift [1/3] Oshii’s space studio overlooking Earth: OK
+[1]Revida      |08:55:55 | 11-10-2026| gift [2/3] Osshi animated stickers: OK
+[1]Revida      |08:55:58 | 11-10-2026| gift [3/3] Oshii and friends above the sunrise clouds: OK
+--> [1]Revida menjalankan: Setup Profile
+[1]Revida      |08:56:00 | 11-10-2026| profile: bio="" fav=- rewardAt=-
+[1]Revida      |08:56:03 | 11-10-2026| profile: OK bio="https://x.com/revidachandrika" fav=kagura awarded=true +10pt
+--> [1]Revida menjalankan: Bind Wallet
+[1]Revida      |08:56:03 | 11-10-2026| wallet: derivasi dari privateKeySolana -> 68QbnxprdEf5FBvTLpqjWLWYzqCLr3vvUmiN93GnQvUb (cek cocok dengan wallet kamu!)
+[1]Revida      |08:56:04 | 11-10-2026| wallet: /api/wallet OK (solana)
+[1]Revida      |08:56:05 | 11-10-2026| wallet: /api/sol-address OK
+
+== RINGKASAN ==
+- Revida: daily=already | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 1/1 completed | musik 8 trek ~1509.5007s | artikel 0 dibaca | manga 13/13 completed | gift 3/3 diterima | profile +10pt | wallet bound | mint req=false open=false
