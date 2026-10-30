@@ -12,47 +12,45 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Revida =====
-[1]Revida      |11:24:09 | 29-10-2026| login OK @revidachandrika | score=2360 rank=3368
-[1]Revida      |11:24:09 | 29-10-2026| serverTime=2026-10-29T11:24:09.000Z local=2026-10-29T11:24:09.770Z
+[1]Revida      |11:16:17 | 30-10-2026| login OK @revidachandrika | score=2440 rank=3267
+[1]Revida      |11:16:17 | 30-10-2026| serverTime=2026-10-30T11:16:17.000Z local=2026-10-30T11:16:17.064Z
 --> [1]Revida menjalankan: Claim Daily
-[1]Revida      |11:24:10 | 29-10-2026| daily: OK +10 poin score=2370
---> [1]Revida menjalankan: Auto All Tasks (7 pending)
-[1]Revida      |11:24:12 | 29-10-2026| [1/7] 4b02b48f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/revidachandrika/status/2115766272833689636
-[1]Revida      |11:24:12 | 29-10-2026| delay 10s...
-[1]Revida      |11:24:23 | 29-10-2026| [2/7] 5c713c28 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/revidachandrika/status/2115766161872085144
-[1]Revida      |11:24:23 | 29-10-2026| delay 10s...
-[1]Revida      |11:24:35 | 29-10-2026| [3/7] a4b0b050 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/revidachandrika/status/2115766130386964320
-[1]Revida      |11:24:35 | 29-10-2026| delay 10s...
-[1]Revida      |11:24:47 | 29-10-2026| [4/7] 6fb148bd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/revidachandrika/status/2115766179419882413
-[1]Revida      |11:24:47 | 29-10-2026| delay 10s...
-[1]Revida      |11:24:58 | 29-10-2026| [5/7] 21a80281 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/revidachandrika/status/2115766341252779657
-[1]Revida      |11:24:58 | 29-10-2026| delay 10s...
-[1]Revida      |11:25:10 | 29-10-2026| [6/7] 623aac60 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/revidachandrika/status/2115766570490686679
-[1]Revida      |11:25:10 | 29-10-2026| delay 10s...
-[1]Revida      |11:25:22 | 29-10-2026| [7/7] 125a0329 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321
-[1]Revida      |11:25:22 | 29-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Revida      |11:25:23 | 29-10-2026| [1/1] 4b02b48f (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2115728806573219 | proof=https://x.com/revidachandrika/status/2115766581483658698
+[1]Revida      |11:16:18 | 30-10-2026| daily: OK +10 poin score=2450
+--> [1]Revida menjalankan: Auto All Tasks (6 pending)
+[1]Revida      |11:16:20 | 30-10-2026| [1/6] 68dc803a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/revidachandrika/status/2116126443103848053
+[1]Revida      |11:16:20 | 30-10-2026| delay 10s...
+[1]Revida      |11:16:32 | 30-10-2026| [2/6] 2b535748 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/revidachandrika/status/2116126670380000438
+[1]Revida      |11:16:32 | 30-10-2026| delay 10s...
+[1]Revida      |11:16:45 | 30-10-2026| [3/6] 41ea1884 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/revidachandrika/status/2116126590557427924
+[1]Revida      |11:16:45 | 30-10-2026| delay 10s...
+[1]Revida      |11:16:57 | 30-10-2026| [4/6] ef7e9fb7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/revidachandrika/status/2116126593366212499
+[1]Revida      |11:16:57 | 30-10-2026| delay 10s...
+[1]Revida      |11:17:10 | 30-10-2026| [5/6] 0aa0f4ba (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/revidachandrika/status/2116126945702780933
+[1]Revida      |11:17:10 | 30-10-2026| delay 10s...
+[1]Revida      |11:17:22 | 30-10-2026| [6/6] 137da6db (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790
+[1]Revida      |11:17:22 | 30-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Revida      |11:17:24 | 30-10-2026| [1/1] 68dc803a (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2116040079017906 | proof=https://x.com/revidachandrika/status/2116126876202605250
 --> [1]Revida menjalankan: Watch Anime
-[1]Revida      |11:25:24 | 29-10-2026| watch: semua video sudah completed
+[1]Revida      |11:17:25 | 30-10-2026| watch: semua video sudah completed
 --> [1]Revida menjalankan: Read Article
-[1]Revida      |11:25:25 | 29-10-2026| news: 30/30 artikel selesai dibaca
-[1]Revida      |11:25:26 | 29-10-2026| mint eligibility: {"userId":"1780951410387095552","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@reviidaa","status":"submitted","revision":"d9c02bbb-9fc6-4ad3-a1a8-8cc64d815279"
-[1]Revida      |11:25:26 | 29-10-2026| news: semua artikel sudah dibaca
+[1]Revida      |11:17:26 | 30-10-2026| news: 30/30 artikel selesai dibaca
+[1]Revida      |11:17:27 | 30-10-2026| mint eligibility: {"userId":"1780951410387095552","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@reviidaa","status":"submitted","revision":"d9c02bbb-9fc6-4ad3-a1a8-8cc64d815279"
+[1]Revida      |11:17:27 | 30-10-2026| news: semua artikel sudah dibaca
 --> [1]Revida menjalankan: Quiz Anime
 --> [1]Revida menjalankan: Music Missions (realtime, bisa lama!)
-[1]Revida      |11:25:28 | 29-10-2026| music: kedua misi sudah tercapai, stop
-[1]Revida      |11:25:28 | 29-10-2026| mission music-listens-10: sudah diklaim
-[1]Revida      |11:25:28 | 29-10-2026| mission music-minutes-30: sudah diklaim
-[1]Revida      |11:25:28 | 29-10-2026| mission anime-completed-3: sudah diklaim
+[1]Revida      |11:17:30 | 30-10-2026| music: kedua misi sudah tercapai, stop
+[1]Revida      |11:17:31 | 30-10-2026| mission music-listens-10: sudah diklaim
+[1]Revida      |11:17:31 | 30-10-2026| mission music-minutes-30: sudah diklaim
+[1]Revida      |11:17:31 | 30-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Revida menjalankan: Claim Missions
-[1]Revida      |11:25:29 | 29-10-2026| mission music-listens-10: sudah diklaim
-[1]Revida      |11:25:29 | 29-10-2026| mission music-minutes-30: sudah diklaim
-[1]Revida      |11:25:29 | 29-10-2026| mission anime-completed-3: sudah diklaim
+[1]Revida      |11:17:31 | 30-10-2026| mission music-listens-10: sudah diklaim
+[1]Revida      |11:17:31 | 30-10-2026| mission music-minutes-30: sudah diklaim
+[1]Revida      |11:17:31 | 30-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Revida menjalankan: Check Eligibility
 
 --- eligibility [1]Revida ---
-  @revidachandrika | score=2360 rank=3368
-  tasks    [#######-------------] 4/11
+  @revidachandrika | score=2440 rank=3267
+  tasks    [########------------] 4/10
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -63,14 +61,15 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Revida menjalankan: Read Manga
-[1]Revida      |11:25:32 | 29-10-2026| manga: 0/13 chapter belum completed
+[1]Revida      |11:17:36 | 30-10-2026| manga: 0/13 chapter belum completed
 --> [1]Revida menjalankan: Get Gift
-[1]Revida      |11:25:32 | 29-10-2026| gift: 0/5 belum diterima
+[1]Revida      |11:17:36 | 30-10-2026| gift: 1/6 belum diterima
+[1]Revida      |11:17:37 | 30-10-2026| gift [1/1] I’m minting. Welcoming my Oshii.: OK
 --> [1]Revida menjalankan: Setup Profile
-[1]Revida      |11:25:33 | 29-10-2026| profile: bio="https://x.com/revidachandrika" fav=kagura rewardAt=1791708963
-[1]Revida      |11:25:33 | 29-10-2026| profile: bonus sudah diklaim, skip
+[1]Revida      |11:17:40 | 30-10-2026| profile: bio="https://x.com/revidachandrika" fav=kagura rewardAt=1791708963
+[1]Revida      |11:17:40 | 30-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Revida menjalankan: Bind Wallet
-[1]Revida      |11:25:33 | 29-10-2026| wallet: sudah terikat 68QbnxprdE... (solana)
+[1]Revida      |11:17:40 | 30-10-2026| wallet: sudah terikat 68QbnxprdE... (solana)
 
 == RINGKASAN ==
-- Revida: daily=claimed | tasks OK 8/8 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/5 diterima | profile - | wallet bound | mint req=false open=false
+- Revida: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 1/6 diterima | profile - | wallet bound | mint req=false open=false
