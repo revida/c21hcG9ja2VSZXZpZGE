@@ -12,41 +12,39 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Revida =====
-[1]Revida      |11:43:46 | 11-11-2026| login OK @revidachandrika | score=3110 rank=2394
-[1]Revida      |11:43:46 | 11-11-2026| serverTime=2026-11-11T11:43:46.000Z local=2026-11-11T11:43:46.631Z
+[1]Revida      |12:19:19 | 12-11-2026| login OK @revidachandrika | score=3160 rank=2346
+[1]Revida      |12:19:19 | 12-11-2026| serverTime=2026-11-12T12:19:19.000Z local=2026-11-12T12:19:19.864Z
 --> [1]Revida menjalankan: Claim Daily
-[1]Revida      |11:43:48 | 11-11-2026| daily: OK +10 poin score=3120
---> [1]Revida menjalankan: Auto All Tasks (4 pending)
-[1]Revida      |11:43:50 | 11-11-2026| [1/4] ff2aa141 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"ff2aa141-58da-424e-9d02-7dcd89c4aaa4","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212047985742365 | proof=https://x.com/revidachandrika/status/2120482108487329929
-[1]Revida      |11:43:50 | 11-11-2026| delay 10s...
-[1]Revida      |11:44:04 | 11-11-2026| [2/4] b9ffed17 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"ff2aa141-58da-424e-9d02-7dcd89c4aaa4","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212047985742365 | proof=https://x.com/revidachandrika/status/2120482282106274071
-[1]Revida      |11:44:04 | 11-11-2026| delay 10s...
-[1]Revida      |11:44:18 | 11-11-2026| [3/4] 15841ab3 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"ff2aa141-58da-424e-9d02-7dcd89c4aaa4","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212047985742365 | proof=https://x.com/revidachandrika/status/2120482155323915131
-[1]Revida      |11:44:18 | 11-11-2026| delay 10s...
-[1]Revida      |11:44:31 | 11-11-2026| [4/4] 099d8d68 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"ff2aa141-58da-424e-9d02-7dcd89c4aaa4","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212047985742365 | proof=https://x.com/revidachandrika/status/2120482354676269637
-[1]Revida      |11:44:31 | 11-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Revida      |11:44:33 | 11-11-2026| [1/1] ff2aa141 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"ff2aa141-58da-424e-9d02-7dcd89c4aaa4","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2120479857423659 | proof=https://x.com/revidachandrika/status/2120482230339678973
+[1]Revida      |12:19:21 | 12-11-2026| daily: OK +10 poin score=3170
+--> [1]Revida menjalankan: Auto All Tasks (3 pending)
+[1]Revida      |12:19:23 | 12-11-2026| [1/3] 85466610 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"85466610-a038-47f7-83b7-83ec67bddd8b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212073228377065 | proof=https://x.com/revidachandrika/status/2120853349103916048
+[1]Revida      |12:19:23 | 12-11-2026| delay 10s...
+[1]Revida      |12:19:35 | 12-11-2026| [2/3] 7c6c4a6d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"85466610-a038-47f7-83b7-83ec67bddd8b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212073228377065 | proof=https://x.com/revidachandrika/status/2120853660300428404
+[1]Revida      |12:19:35 | 12-11-2026| delay 10s...
+[1]Revida      |12:19:48 | 12-11-2026| [3/3] fdd13fc3 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"85466610-a038-47f7-83b7-83ec67bddd8b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212073228377065 | proof=https://x.com/revidachandrika/status/2120853619469220265
+[1]Revida      |12:19:48 | 12-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Revida      |12:19:50 | 12-11-2026| [1/1] 85466610 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"85466610-a038-47f7-83b7-83ec67bddd8b","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2120732283770650 | proof=https://x.com/revidachandrika/status/2120853630938252407
 --> [1]Revida menjalankan: Watch Anime
-[1]Revida      |11:44:34 | 11-11-2026| watch: semua video sudah completed
+[1]Revida      |12:19:50 | 12-11-2026| watch: semua video sudah completed
 --> [1]Revida menjalankan: Read Article
-[1]Revida      |11:44:35 | 11-11-2026| news: 34/34 artikel selesai dibaca
-[1]Revida      |11:44:36 | 11-11-2026| mint eligibility: {"userId":"1780951410387095552","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@reviidaa","status":"submitted","revision":"d9c02bbb-9fc6-4ad3-a1a8-8cc64d815279"
-[1]Revida      |11:44:36 | 11-11-2026| news: semua artikel sudah dibaca
+[1]Revida      |12:19:52 | 12-11-2026| news: 34/34 artikel selesai dibaca
+[1]Revida      |12:19:53 | 12-11-2026| mint eligibility: {"userId":"1780951410387095552","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@reviidaa","status":"submitted","revision":"d9c02bbb-9fc6-4ad3-a1a8-8cc64d815279"
+[1]Revida      |12:19:53 | 12-11-2026| news: semua artikel sudah dibaca
 --> [1]Revida menjalankan: Quiz Anime
 --> [1]Revida menjalankan: Music Missions (realtime, bisa lama!)
-[1]Revida      |11:44:39 | 11-11-2026| music: kedua misi sudah tercapai, stop
-[1]Revida      |11:44:40 | 11-11-2026| mission music-listens-10: sudah diklaim
-[1]Revida      |11:44:40 | 11-11-2026| mission music-minutes-30: sudah diklaim
-[1]Revida      |11:44:40 | 11-11-2026| mission anime-completed-3: sudah diklaim
+[1]Revida      |12:19:55 | 12-11-2026| music: kedua misi sudah tercapai, stop
+[1]Revida      |12:19:56 | 12-11-2026| mission music-listens-10: sudah diklaim
+[1]Revida      |12:19:56 | 12-11-2026| mission music-minutes-30: sudah diklaim
+[1]Revida      |12:19:56 | 12-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Revida menjalankan: Claim Missions
-[1]Revida      |11:44:40 | 11-11-2026| mission music-listens-10: sudah diklaim
-[1]Revida      |11:44:40 | 11-11-2026| mission music-minutes-30: sudah diklaim
-[1]Revida      |11:44:40 | 11-11-2026| mission anime-completed-3: sudah diklaim
+[1]Revida      |12:19:56 | 12-11-2026| mission music-listens-10: sudah diklaim
+[1]Revida      |12:19:56 | 12-11-2026| mission music-minutes-30: sudah diklaim
+[1]Revida      |12:19:56 | 12-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Revida menjalankan: Check Eligibility
 
 --- eligibility [1]Revida ---
-  @revidachandrika | score=3110 rank=2394
-  tasks    [####----------------] 1/5
+  @revidachandrika | score=3160 rank=2346
+  tasks    [########------------] 2/5
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -57,19 +55,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Revida menjalankan: Read Manga
-[1]Revida      |11:44:45 | 11-11-2026| manga: 0/13 chapter belum completed
+[1]Revida      |12:20:00 | 12-11-2026| manga: 0/13 chapter belum completed
 --> [1]Revida menjalankan: Get Gift
-[1]Revida      |11:44:47 | 11-11-2026| gift: 5/12 belum diterima
-[1]Revida      |11:44:50 | 11-11-2026| gift [1/5] OSHI friends on a meadow hill: OK
-[1]Revida      |11:44:55 | 11-11-2026| gift [2/5] OSHI friends playing on a meadow hill: OK
-[1]Revida      |11:44:58 | 11-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Revida      |11:45:01 | 11-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Revida      |11:45:04 | 11-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Revida      |12:20:01 | 12-11-2026| gift: 3/12 belum diterima
+[1]Revida      |12:20:02 | 12-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Revida      |12:20:05 | 12-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Revida      |12:20:08 | 12-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Revida menjalankan: Setup Profile
-[1]Revida      |11:45:07 | 11-11-2026| profile: bio="https://x.com/revidachandrika" fav=kagura rewardAt=1791708963
-[1]Revida      |11:45:07 | 11-11-2026| profile: bonus sudah diklaim, skip
+[1]Revida      |12:20:11 | 12-11-2026| profile: bio="https://x.com/revidachandrika" fav=kagura rewardAt=1791708963
+[1]Revida      |12:20:11 | 12-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Revida menjalankan: Bind Wallet
-[1]Revida      |11:45:08 | 11-11-2026| wallet: sudah terikat 68QbnxprdE... (solana)
+[1]Revida      |12:20:11 | 12-11-2026| wallet: sudah terikat 68QbnxprdE... (solana)
 
 == RINGKASAN ==
-- Revida: daily=claimed | tasks OK 5/5 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 2/12 diterima | profile - | wallet bound | mint req=false open=false
+- Revida: daily=claimed | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/12 diterima | profile - | wallet bound | mint req=false open=false
